@@ -65,9 +65,3 @@ A secure and reliable communication tool that eliminates unauthorized postings a
 
 ---
 
-## How to Run
-1. Clone the repository  
-2. Set up the MySQL database using the provided schema  
-3. Update database credentials in the configuration file  
-4. Run the application using your preferred IDE or `java -jar` command  
-5. Login as `USER` or `ADMIN` to start creating or moderating posts
