@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "d:\\JAVA\\mysql-connector-j-9.4.0\\mysql-connector-j-9.4.0.jar",
+        "d:\\JAVA\\apache-tomcat-11.0.15\\lib\\jsp-api.jar",
+        "d:\\JAVA\\apache-tomcat-11.0.15\\lib\\servlet-api.jar"
+    ],
+    "java.project.sourcePaths": [
+        "WEB-INF\\classes"
+    ],
+    "cSpell.words": [
+        "jdbc"
+    ]
+}
